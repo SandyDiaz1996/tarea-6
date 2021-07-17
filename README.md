@@ -1,2 +1,2 @@
-# Tarea #5 de POO 🛠
-Tarea de POO jueves 17/06/2021 🙋🏽
+# Tarea #6 de POO 🛠
+Tarea de POO lunes 21/06/2021 🙋🏽
